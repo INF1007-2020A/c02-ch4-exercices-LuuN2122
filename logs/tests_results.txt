@@ -1,0 +1,9 @@
+test_get_first_part_of_name (__main__.TestExercice) ... ok
+test_get_num_char (__main__.TestExercice) ... ok
+test_get_random_sentence (__main__.TestExercice) ... ok
+test_is_even_len (__main__.TestExercice) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK

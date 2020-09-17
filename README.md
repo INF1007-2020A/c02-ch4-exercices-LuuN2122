@@ -1,5 +1,16 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect-0.herokuapp.com/)
 
+
+## Résultats
+Score | Critères
+--- | ---
+1/1 | Prénoms composés
+1/1 | Fréquence d'une lettre
+1/1 | Texte à trous
+1/1 | Longueur paire
+4/4 | **Total**
+
+[Voir détails](./logs/tests_results.txt) | [Rafraîchir](../../)
 # Exercices en vrac (chapitre 4)
 
 Avant de commencer. Consulter les instructions à suivre dans [instructions.md](instructions.md)
